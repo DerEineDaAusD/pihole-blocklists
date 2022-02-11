@@ -1,3 +1,4 @@
 rdir-nl.freenet.de
+rdir-agn.freenet.de
 images.ctfassets.net
 epl.paypal-communication.com
