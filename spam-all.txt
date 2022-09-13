@@ -1,6 +1,6 @@
-rdir-nl.freenet.de
-images.ctfassets.net
-epl.paypal-communication.com
-www.meetmep.com
-www.datinglabz.com
-www.jaiilz.com
+0.0.0.0 rdir-nl.freenet.de
+0.0.0.0 images.ctfassets.net
+0.0.0.0 epl.paypal-communication.com
+0.0.0.0 www.meetmep.com
+0.0.0.0 www.datinglabz.com
+0.0.0.0 www.jaiilz.com

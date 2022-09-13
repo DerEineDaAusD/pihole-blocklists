@@ -1,4 +1,4 @@
-rdir-nl.freenet.de
-rdir-agn.freenet.de
-images.ctfassets.net
-epl.paypal-communication.com
+0.0.0.0 rdir-nl.freenet.de
+0.0.0.0 rdir-agn.freenet.de
+0.0.0.0 images.ctfassets.net
+0.0.0.0 epl.paypal-communication.com
