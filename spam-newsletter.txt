@@ -2,4 +2,4 @@
 0.0.0.0 rdir-agn.freenet.de
 0.0.0.0 images.ctfassets.net
 0.0.0.0 epl.paypal-communication.com
-0.0.0.0 info@customersurveypanel.net
+0.0.0.0 customersurveypanel.net
