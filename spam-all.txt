@@ -11,3 +11,5 @@
 0.0.0.0 commerz.de568749.com
 0.0.0.0 targo.366862.com
 0.0.0.0 itn.pl
+0.0.0.0 choto.xyz
+0.0.0.0 victory-leads.xyz
