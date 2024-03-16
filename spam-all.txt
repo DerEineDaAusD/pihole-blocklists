@@ -13,3 +13,4 @@
 0.0.0.0 itn.pl
 0.0.0.0 choto.xyz
 0.0.0.0 victory-leads.xyz
+0.0.0.0 tipslife.com
