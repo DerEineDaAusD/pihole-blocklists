@@ -37,3 +37,4 @@
 0.0.0.0 agwauk.com
 0.0.0.0 lexdecker.com
 0.0.0.0 forthvalley.ac.uk
+0.0.0.0 fancute.shop
