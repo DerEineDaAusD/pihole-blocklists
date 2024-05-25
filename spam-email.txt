@@ -20,3 +20,4 @@
 0.0.0.0 rottlaender24.de
 0.0.0.0 davndove.shop
 0.0.0.0 survey-form.com
+0.0.0.0 samadvisory.co.uk
