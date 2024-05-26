@@ -39,3 +39,4 @@
 0.0.0.0 forthvalley.ac.uk
 0.0.0.0 fancute.shop
 0.0.0.0 aqua-holder.com
+0.0.0.0 caffetriestefranchising.com
