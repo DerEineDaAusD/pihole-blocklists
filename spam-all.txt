@@ -41,3 +41,4 @@
 0.0.0.0 aqua-holder.com
 0.0.0.0 caffetriestefranchising.com
 0.0.0.0 amlkiss.shop
+0.0.0.0 caffeitaliano.info
