@@ -36,4 +36,5 @@
 ||charmevietnam.com^
 ||hradslanec.sk^
 ||scottrayow.com^
-||bonitos.store
+||bonitos.store^
+||ciesco.net^

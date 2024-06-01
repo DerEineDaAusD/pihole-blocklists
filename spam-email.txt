@@ -37,3 +37,4 @@
 0.0.0.0 hradslanec.sk
 0.0.0.0 scottrayow.com
 0.0.0.0 bonitos.store
+0.0.0.0 ciesco.net
