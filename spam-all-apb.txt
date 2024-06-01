@@ -26,12 +26,12 @@
 ||jasperbiermann.de^
 ||judoschule-falkensee.de^
 ||godseyes.de^
-|vegauk.co.uk^
+||vegauk.co.uk^
 ||holondes.club^
 ||pehnert-hoffmann.de^
 ||pythiapili.eu^
 ||valaarm.shop^
-|ip.linodeusercontent.com^
+||ip.linodeusercontent.com^
 ||rottlaender24.de^
 ||davndove.shop^
 ||survey-form.com^
