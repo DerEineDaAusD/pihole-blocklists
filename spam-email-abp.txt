@@ -41,6 +41,7 @@
 ||thomas-daily.de^
 ||monarchchemicals.co.uk^
 ||gamedevarea.net^
-||gambler.sk
-||georealing.com
-||novadour.store
+||gambler.sk^
+||georealing.com^
+||novadour.store^
+||geodet.top^
