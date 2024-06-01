@@ -34,3 +34,4 @@
 0.0.0.0 tracing-provenance.org
 0.0.0.0 buyyourownmodem.com
 0.0.0.0 charmevietnam.com
+0.0.0.0 hradslanec.sk
