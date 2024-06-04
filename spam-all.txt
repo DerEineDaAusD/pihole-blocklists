@@ -59,3 +59,4 @@
 0.0.0.0 novadour.store
 0.0.0.0 geodet.top
 0.0.0.0 hrabkov.com
+0.0.0.0 ecommerce-interim.de
