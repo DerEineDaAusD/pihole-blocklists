@@ -67,3 +67,4 @@
 0.0.0.0 edition-momente.de
 0.0.0.0 linnenergy.com
 0.0.0.0 crosbyclassicsmiles.com
+0.0.0.0 aramfist.shop
