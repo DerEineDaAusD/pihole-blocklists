@@ -50,3 +50,4 @@
 0.0.0.0 amlkiss.shop
 0.0.0.0 lerouge.me
 0.0.0.0 pluslekaren.com
+0.0.0.0 mlmpayday.com
