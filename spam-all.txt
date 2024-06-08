@@ -69,3 +69,4 @@
 0.0.0.0 crosbyclassicsmiles.com
 0.0.0.0 aramfist.shop
 0.0.0.0 ferrotekt.ch
+0.0.0.0 indiepraxis.at
