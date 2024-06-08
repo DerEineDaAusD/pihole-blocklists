@@ -75,3 +75,4 @@
 ||mouvish.store^
 ||sakenuus.com^
 ||dationacademy.com^
+||cobaltbullet.store^
