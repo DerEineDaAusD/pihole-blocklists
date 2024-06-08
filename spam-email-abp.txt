@@ -62,3 +62,4 @@
 ||dationacademy.com^
 ||cobaltbullet.store^
 ||rotwandblick.at^
+||mobiklik.rs^

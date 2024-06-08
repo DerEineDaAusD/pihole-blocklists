@@ -62,3 +62,4 @@
 0.0.0.0 dationacademy.com
 0.0.0.0 cobaltbullet.store
 0.0.0.0 rotwandblick.at
+0.0.0.0 mobiklik.rs
