@@ -74,3 +74,4 @@
 0.0.0.0 sakenuus.com
 0.0.0.0 dationacademy.com
 0.0.0.0 cobaltbullet.store
+0.0.0.0 rotwandblick.at
