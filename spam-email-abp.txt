@@ -57,3 +57,4 @@
 ||aramfist.shop^
 ||ferrotekt.ch^
 ||indiepraxis.at^
+||mouvish.store^
