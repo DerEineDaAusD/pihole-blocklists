@@ -64,3 +64,4 @@
 0.0.0.0 lerouge.me
 0.0.0.0 pluslekaren.com
 0.0.0.0 mlmpayday.com
+0.0.0.0 edition-momente.de
