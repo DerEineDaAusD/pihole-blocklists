@@ -66,3 +66,4 @@
 0.0.0.0 mlmpayday.com
 0.0.0.0 edition-momente.de
 0.0.0.0 linnenergy.com
+0.0.0.0 crosbyclassicsmiles.com
