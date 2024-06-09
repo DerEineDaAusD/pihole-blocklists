@@ -66,3 +66,4 @@
 0.0.0.0 waf-bayern.com
 0.0.0.0 artofwals.site
 0.0.0.0 15n.de
+0.0.0.0 gn-fusion.shop
