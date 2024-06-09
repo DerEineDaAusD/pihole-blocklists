@@ -79,4 +79,4 @@
 ||rotwandblick.at^
 ||mobiklik.rs^
 ||waf-bayern.com^
-||artofwals.site
+||artofwals.site^
