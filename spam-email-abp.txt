@@ -63,3 +63,5 @@
 ||cobaltbullet.store^
 ||rotwandblick.at^
 ||mobiklik.rs^
+||waf-bayern.com
+
