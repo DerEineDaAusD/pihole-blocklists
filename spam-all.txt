@@ -86,3 +86,4 @@
 0.0.0.0 gubancszoba.hu
 0.0.0.0 probernu.shop
 0.0.0.0 schuelermanager-beethovenfest.de
+0.0.0.0 trunkin.shop
