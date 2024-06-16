@@ -87,3 +87,4 @@
 0.0.0.0 probernu.shop
 0.0.0.0 schuelermanager-beethovenfest.de
 0.0.0.0 trunkin.shop
+0.0.0.0 legion1913.com.ua
