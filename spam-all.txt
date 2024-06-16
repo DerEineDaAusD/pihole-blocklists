@@ -89,3 +89,4 @@
 0.0.0.0 trunkin.shop
 0.0.0.0 legion1913.com.ua
 0.0.0.0 slanaksa.shop
+0.0.0.0 matrixplux.com
