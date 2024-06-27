@@ -97,4 +97,6 @@
 0.0.0.0 emingoods.shop
 0.0.0.0 seidenroth.de
 0.0.0.0 ponukampracu.sk
-
+0.0.0.0 slowfines.online
+0.0.0.0 woodacus.hu
+0.0.0.0 amorindum.shop
