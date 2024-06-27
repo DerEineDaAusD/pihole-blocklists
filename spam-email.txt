@@ -86,3 +86,4 @@
 0.0.0.0 ponukampracu.sk
 0.0.0.0 slowfines.online
 0.0.0.0 woodacus.hu
+0.0.0.0 amorindum.shop
