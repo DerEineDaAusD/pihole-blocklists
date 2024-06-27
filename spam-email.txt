@@ -93,3 +93,4 @@
 0.0.0.0 hecklandfarm.co.uk
 0.0.0.0 fideltothem.shop
 0.0.0.0 starsnstripes.de
+0.0.0.0 arigatoguza.shop
