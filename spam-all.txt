@@ -100,3 +100,4 @@
 0.0.0.0 slowfines.online
 0.0.0.0 woodacus.hu
 0.0.0.0 amorindum.shop
+0.0.0.0 dds-r.net
