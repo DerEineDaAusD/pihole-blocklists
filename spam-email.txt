@@ -95,3 +95,4 @@
 0.0.0.0 starsnstripes.de
 0.0.0.0 arigatoguza.shop
 0.0.0.0 leafarrow.com
+0.0.0.0 911gear.ca
