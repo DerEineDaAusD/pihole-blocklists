@@ -83,3 +83,4 @@
 0.0.0.0 gipsmont.sk
 0.0.0.0 emingoods.shop
 0.0.0.0 seidenroth.de
+0.0.0.0 ponukampracu.sk
