@@ -82,3 +82,4 @@
 ||gn-fusion.shop^
 ||gipsmont.sk^
 ||emingoods.shop^
+||seidenroth.de^

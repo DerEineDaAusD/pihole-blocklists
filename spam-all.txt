@@ -95,3 +95,4 @@
 0.0.0.0 gn-fusion.shop
 0.0.0.0 gipsmont.sk
 0.0.0.0 emingoods.shop
+0.0.0.0 seidenroth.de
