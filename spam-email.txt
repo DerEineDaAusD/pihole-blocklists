@@ -80,3 +80,4 @@
 0.0.0.0 himtoit.shop
 0.0.0.0 babyraptor.sk
 0.0.0.0 gn-fusion.shop
+0.0.0.0 gipsmont.sk
