@@ -79,3 +79,4 @@
 0.0.0.0 matrixplux.com
 0.0.0.0 himtoit.shop
 0.0.0.0 babyraptor.sk
+0.0.0.0 gn-fusion.shop
