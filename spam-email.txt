@@ -100,3 +100,4 @@
 0.0.0.0 bjsrealtygroup.com
 0.0.0.0 endlessinspirations.co.za
 0.0.0.0 worldoftopics.shop
+0.0.0.0 vitabalis.de
