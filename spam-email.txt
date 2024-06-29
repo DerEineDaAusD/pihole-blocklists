@@ -106,3 +106,4 @@
 0.0.0.0 edlucenec.eu
 0.0.0.0 indealy.com
 0.0.0.0 stiftunghensoltshoehe.de
+0.0.0.0 professionalgolfservice.de
