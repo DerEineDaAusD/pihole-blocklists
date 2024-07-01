@@ -117,3 +117,4 @@
 ||deilinghofen.de^
 ||eurokombi.si^
 ||edelgard-knoll.de^
+||zones.sk^
