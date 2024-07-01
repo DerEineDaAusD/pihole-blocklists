@@ -133,3 +133,4 @@
 0.0.0.0 zones.sk
 0.0.0.0 mupet.sk
 0.0.0.0 vitamina.hu
+0.0.0.0 boheymian.shop

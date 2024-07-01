@@ -120,3 +120,4 @@
 ||zones.sk^
 ||mupet.sk^
 ||vitamina.hu^
+||boheymian.shop^
