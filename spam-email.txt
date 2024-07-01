@@ -115,3 +115,4 @@
 0.0.0.0 sunnys.co.nz
 0.0.0.0 lazkan.com
 0.0.0.0 deilinghofen.de
+0.0.0.0 eurokombi.si
