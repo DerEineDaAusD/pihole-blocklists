@@ -133,3 +133,5 @@
 ||eurokombi.si^
 ||edelgard-knoll.de^
 ||zones.sk^
+||mupet.sk^
+||vitamina.hu^
