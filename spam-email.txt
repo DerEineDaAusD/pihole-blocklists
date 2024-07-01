@@ -116,3 +116,4 @@
 0.0.0.0 lazkan.com
 0.0.0.0 deilinghofen.de
 0.0.0.0 eurokombi.si
+0.0.0.0 edelgard-knoll.de
