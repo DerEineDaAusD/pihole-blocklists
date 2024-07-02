@@ -127,3 +127,4 @@
 0.0.0.0 aishabig.shop
 0.0.0.0 dvdsp.com.br
 0.0.0.0 slanaksa.shop
+0.0.0.0 gymnasium-mallersdorf.de
