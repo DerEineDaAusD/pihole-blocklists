@@ -124,3 +124,4 @@
 0.0.0.0 simonbailey.org
 0.0.0.0 ydinkastoon.shop
 0.0.0.0 digitalwaehrung.com
+0.0.0.0 aishabig.shop
