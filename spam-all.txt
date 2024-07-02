@@ -141,3 +141,4 @@
 0.0.0.0 dvdsp.com.br
 0.0.0.0 slanaksa.shop
 0.0.0.0 gymnasium-mallersdorf.de
+0.0.0.0 bujinkan.sk
