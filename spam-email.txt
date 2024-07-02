@@ -126,3 +126,4 @@
 0.0.0.0 digitalwaehrung.com
 0.0.0.0 aishabig.shop
 0.0.0.0 dvdsp.com.br
+0.0.0.0 slanaksa.shop
