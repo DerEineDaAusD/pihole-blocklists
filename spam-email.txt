@@ -130,3 +130,4 @@
 0.0.0.0 gymnasium-mallersdorf.de
 0.0.0.0 bujinkan.sk
 0.0.0.0 scharfsinn.net
+0.0.0.0 ma7indra.shop
