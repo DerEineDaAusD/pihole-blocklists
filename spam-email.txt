@@ -129,3 +129,4 @@
 0.0.0.0 slanaksa.shop
 0.0.0.0 gymnasium-mallersdorf.de
 0.0.0.0 bujinkan.sk
+0.0.0.0 scharfsinn.net
