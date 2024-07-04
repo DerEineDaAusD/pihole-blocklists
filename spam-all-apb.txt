@@ -149,3 +149,4 @@
 ||kaylo-prosport.com^
 ||hopital-lunel.fr^
 ||kozow.com^
+||kamence.sk^

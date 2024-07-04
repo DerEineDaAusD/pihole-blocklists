@@ -147,3 +147,4 @@
 0.0.0.0 kaylo-prosport.com
 0.0.0.0 hopital-lunel.fr
 0.0.0.0 kozow.com
+0.0.0.0 kamence.sk
