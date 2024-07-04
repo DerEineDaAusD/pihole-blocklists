@@ -136,3 +136,4 @@
 0.0.0.0 kozow.com
 0.0.0.0 kamence.sk
 0.0.0.0 endlesssmily.shop
+0.0.0.0 lunastudio.sk
