@@ -158,3 +158,4 @@
 0.0.0.0 kieselcars.eu
 0.0.0.0 schiwywaffen.com
 0.0.0.0 erateam.site
+0.0.0.0 batback.sk
