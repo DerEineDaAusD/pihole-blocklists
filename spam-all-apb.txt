@@ -166,3 +166,4 @@
 ||loseyourip.com^
 ||jobin.sk^
 ||bs-powersales.de^
+||quantlab.sk^
