@@ -140,3 +140,4 @@
 0.0.0.0 aermax.gmbh
 0.0.0.0 theworkpc.com
 0.0.0.0 wittemoor.de
+0.0.0.0 lifeandbody.hu
