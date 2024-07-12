@@ -165,3 +165,4 @@
 0.0.0.0 jobin.sk
 0.0.0.0 bs-powersales.de
 0.0.0.0 quantlab.sk
+0.0.0.0 sawayaeletronica.com.br
