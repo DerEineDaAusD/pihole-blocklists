@@ -160,3 +160,4 @@
 0.0.0.0 erateam.site
 0.0.0.0 batback.sk
 0.0.0.0 michellevannamen.com
+0.0.0.0 arigatoguza.shop
