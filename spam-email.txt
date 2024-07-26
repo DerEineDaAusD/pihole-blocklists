@@ -154,3 +154,4 @@
 0.0.0.0 quantlab.sk
 0.0.0.0 sawayaeletronica.com.br
 0.0.0.0 ooguy.com
+0.0.0.0 camdvr.org
