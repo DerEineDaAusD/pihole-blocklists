@@ -156,3 +156,4 @@
 0.0.0.0 ooguy.com
 0.0.0.0 camdvr.org
 0.0.0.0 mywire.org
+0.0.0.0 casacam.net
