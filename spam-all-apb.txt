@@ -172,3 +172,4 @@
 ||camdvr.org^
 ||mywire.org^
 ||casacam.net^
+||ddnsfree.com^

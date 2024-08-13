@@ -157,3 +157,4 @@
 0.0.0.0 camdvr.org
 0.0.0.0 mywire.org
 0.0.0.0 casacam.net
+0.0.0.0 ddnsfree.com
