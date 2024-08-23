@@ -172,3 +172,4 @@
 0.0.0.0 casacam.net
 0.0.0.0 ddnsfree.com
 0.0.0.0 ddnsgeek.com
+0.0.0.0 giize.com
