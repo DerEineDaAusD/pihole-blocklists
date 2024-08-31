@@ -160,3 +160,4 @@
 ||ddnsfree.com^
 ||ddnsgeek.com^
 ||giize.com^
+||gleeze.com^
