@@ -161,3 +161,4 @@
 ||ddnsgeek.com^
 ||giize.com^
 ||gleeze.com^
+||dmediazone.com^
